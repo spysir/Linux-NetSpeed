@@ -5,4 +5,4 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/spysir/bbr/mast
 
 或者
 
-bash <(curl -fsSL git.io/JDsTv)
+bash <(curl -fsSL git.io/JDscQ)
